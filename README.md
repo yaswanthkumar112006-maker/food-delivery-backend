@@ -74,6 +74,6 @@ The project uses centralized exception handling with custom exceptions for bette
 
 ## Author
 
-Yashwanth Kumar
+Yaswanth Kumar
 
 GitHub: https://github.com/yaswanthkumar112006-maker
