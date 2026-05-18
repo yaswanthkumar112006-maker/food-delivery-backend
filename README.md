@@ -78,6 +78,4 @@ The project uses centralized exception handling with custom exceptions for bette
 Yaswanth Kumar
 
 GitHub: https://github.com/yaswanthkumar112006-maker
- type: ".\README.md". See "get-help about_Command_Precedence" for more details.
-PS C:\Backendprojects\smart-delivery-backend> 
- 3bffd10 (Updated README)
+ 
