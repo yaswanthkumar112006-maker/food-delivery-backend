@@ -5,7 +5,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+import jakarta.persistence.Column;
 @Entity
 @Table(name = "users")
 public class User {
@@ -16,6 +16,7 @@ public class User {
 
     private String fullName;
 
+    @Column(unique = true)
     private String email;
 
     private String password;
